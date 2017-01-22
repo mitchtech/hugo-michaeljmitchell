@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael J. Mitchell, Ph.D.</title>
+    <link>https://mitchtech.github.io/hugo-michaeljmitchell/index.xml</link>
+    <description>Recent content on Michael J. Mitchell, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Jan 2017 17:53:46 -0800</lastBuildDate>
+    <atom:link href="https://mitchtech.github.io/hugo-michaeljmitchell/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://mitchtech.github.io/hugo-michaeljmitchell/about/</link>
+      <pubDate>Sat, 21 Jan 2017 17:53:46 -0800</pubDate>
+      
+      <guid>https://mitchtech.github.io/hugo-michaeljmitchell/about/</guid>
+      <description>&lt;p&gt;I am a Sr. Engineer and Technical Lead of the Customer Experience (CX) Lab at T-Mobile. Current R&amp;amp;D includes optimization of telemetry collection, aggregation, visualization, monitoring, and anomaly detection platforms as well as modernizing CI/CD/CT infrastructure using open source software and modern DevOps design patterns. Since I joined the lab in 2015, I have also been driving new mobile LTE security research initiatives, prototyping new mobile and IoT product concepts, and developing synthetic user experience automation and analytic tools. I have a PhD in Computer Science and over a decade of industry experience spanning privacy, security, data science, embedded systems, and context‐aware domains.&lt;/p&gt;
+
+&lt;p&gt;Prior to joining T-Mobile, I worked on NSF sponsored research at Florida State University for over five years. I also taught courses in Kernel and Device Driver Programming, Object-oriented Programming in C++, and regularly lectured on various Android and Linux topics while at FSU.&lt;/p&gt;
+
+&lt;p&gt;I’ve been an avid Android user and developer since the first release of the G1, compiling and running my own Android firmware since the Cupcake source code release. I’ve worked on dozens of different Android applications, totaling over half a million downloads. I’ve also been a Linux user for over a decade now and a developer on multiple Linux desktop and embedded distributions for nearly that long as well.&lt;/p&gt;
+
+&lt;p&gt;I’m also an avid supporter of open source software, with over 50 of my own open source projects on Github. Mitchtech.net is my technical blog about my adventures in software development, physical computing, embedded devices, and electronics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://mitchtech.github.io/hugo-michaeljmitchell/publications/</link>
+      <pubDate>Sat, 21 Jan 2017 17:53:46 -0800</pubDate>
+      
+      <guid>https://mitchtech.github.io/hugo-michaeljmitchell/publications/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Cashtags: Protecting The Input And Display Of Sensitive Data.&lt;/strong&gt;
+Michael Mitchell, An-I Andy Wang, and Peter Reiher.
+&lt;em&gt;Proceedings of the 24th USENIX Security Symposium&lt;/em&gt;, 2015.
+(Supersedes &lt;em&gt;Technical Report TR-141209&lt;/em&gt;). &lt;a href=&#34;https://www.dropbox.com/s/lwdmzfiwr3yn60a/usenixsec2015.pdf?dl=1&#34;&gt;&lt;strong&gt;[PDF]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cashtags: Protecting The Input And Display Of Sensitive Data.&lt;/strong&gt;
+Michael Mitchell.
+&lt;em&gt;Doctoral Dissertation&lt;/em&gt;, Department of Computer Science, Florida State University, 2015. &lt;a href=&#34;https://www.dropbox.com/s/wghbdynb86sz58p/Mitchell_M_Dissertation.pdf?dl=1&#34;&gt;&lt;strong&gt;[PDF]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mobile Usage Patterns and Privacy Implications.&lt;/strong&gt;
+Michael Mitchell, Ratnesh Patidar, Manik Saini, Parteek Singh, An-I Andy Wang, and Peter Reiher.
+&lt;em&gt;Proceedings of the IEEE 2015 International Workshop on the Impact of Human Mobility in Pervasive Systems and Applications (PerMoby)&lt;/em&gt;, 2015.
+(Supersedes &lt;em&gt;Technical Report TR-131104&lt;/em&gt;). &lt;a href=&#34;https://www.dropbox.com/s/58yhxox3khochd6/permoby2015.pdf?dl=1&#34;&gt;&lt;strong&gt;[PDF]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cashtags: Prevent Leaking Sensitive Information through Screen Display.&lt;/strong&gt;
+Michael Mitchell, An-I Wang, and Peter Reiher.
+&lt;em&gt;Technical Report TR-141209&lt;/em&gt;, Department of Computer Science, Florida State University, 2014. &lt;a href=&#34;https://www.dropbox.com/s/ikpmsvacjazwxds/TR-141209.pdf?dl=1&#34;&gt;&lt;strong&gt;[PDF]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shoulder Surf Sentry: Secure and usable observation‐resistant mobile computing in front of peering eyes.&lt;/strong&gt;
+Michael Mitchell.
+&lt;em&gt;Dissertation Prospectus&lt;/em&gt;, Department of Computer Science, Florida State University, 2014. &lt;a href=&#34;https://www.dropbox.com/s/kwdgu9ff9a1nrul/Mitchell_M_Prospectus.pdf?dl=1&#34;&gt;&lt;strong&gt;[PDF]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Systematic Audit of Third‐Party Android Phones.&lt;/strong&gt;
+Michael Mitchell, Guanyu Tian, and Zhi Wang.
+&lt;em&gt;Proceedings of the 4th ACM Conference on Data and Application Security and Privacy (CODASPY)&lt;/em&gt;, 2014. &lt;a href=&#34;https://www.dropbox.com/s/3xfoirjnit75ih5/codaspy2014.pdf?dl=1&#34;&gt;&lt;strong&gt;[PDF]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mobile Usage Patterns and Privacy Implications.&lt;/strong&gt;
+Michael Mitchell, An‐I Andy Wang, and Peter Reiher.
+&lt;em&gt;Technical Report TR‐131104&lt;/em&gt;, Department of Computer Science, Florida State University, 2013. &lt;a href=&#34;https://www.dropbox.com/s/z6z4b4w0q1gwcwe/TR-131104.pdf?dl=1&#34;&gt;&lt;strong&gt;[PDF]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TrueErase: Per‐file Secure Deletion for the Storage Data Path.&lt;/strong&gt;
+Sarah Diesburg, Christopher Meyers, Mark Stanovich, Michael Mitchell, Justin Marshall, Julia Gould, An‐I Andy Wang, and Geoff Kuenning.
+&lt;em&gt;Proceedings of the 2012 Annual Computer Security Applications Conference (ACSAC)&lt;/em&gt;, 2012.
+(Supersedes &lt;em&gt;Technical Report TR-111020&lt;/em&gt;). &lt;a href=&#34;https://www.dropbox.com/s/ti3d650dtns4y9x/acsac2012.pdf?dl=1&#34;&gt;&lt;strong&gt;[PDF]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A Survey on Techniques to Enrich Filesystem Access Methods.&lt;/strong&gt;
+Michael Mitchell.
+&lt;em&gt;PhD Area Survey&lt;/em&gt;, Department of Computer Science, Florida State University, 2012. &lt;a href=&#34;https://www.dropbox.com/s/0h3t2m1n6qqvxgd/Mitchell_M_Area_Survey.pdf?dl=1&#34;&gt;&lt;strong&gt;[PDF]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ContextProvider: Context‐Awareness for Medical Monitoring Applications.&lt;/strong&gt;
+Michael Mitchell, Christopher Meyers, An‐I Andy Wang, and Gary Tyson.
+&lt;em&gt;Proceedings of the 33rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)&lt;/em&gt;, 2011. &lt;a href=&#34;https://www.dropbox.com/s/jopn039xh1gtkpi/embc2011.pdf?dl=1&#34;&gt;&lt;strong&gt;[PDF]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TrueErase: Full-storage-data-path Per-file Secure Deletion.&lt;/strong&gt;
+Sarah Diesburg, Chrisopher Myers, Mark Stanovich, Michael Mitchell, Justin Marshall, Julia Gould, An-I Andy Wang, and Geoff Kuenning.
+&lt;em&gt;Technical Report TR-111020&lt;/em&gt;, Department of Computer Science, Florida State University, 2011. &lt;a href=&#34;https://www.dropbox.com/s/6qibevrf8yr09la/TR-111020.pdf?dl=1&#34;&gt;&lt;strong&gt;[PDF]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BEAT: Bio‐Environmental Android Tracking.&lt;/strong&gt;
+Michael Mitchell, Frank Sposaro, An‐I Andy Wang, and Gary Tyson.
+&lt;em&gt;Proceedings of the IEEE Topical Meeting on Biomedical Radio and Wireless Technologies, Networks, and Sensing Systems (RWW)&lt;/em&gt;, 2011. &lt;a href=&#34;https://www.dropbox.com/s/oxscxlfwhk34mj5/rww2011.pdf?dl=1&#34;&gt;&lt;strong&gt;[PDF]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Context &amp;amp; Bio Aware Mobile Applications.&lt;/strong&gt;
+Michael Mitchell.
+&lt;em&gt;Master’s Thesis&lt;/em&gt;, Department of Computer Science, Florida State University, 2011. &lt;a href=&#34;https://www.dropbox.com/s/kfh6r3dfeuhn95u/Mitchell_M_Thesis.pdf?dl=1&#34;&gt;&lt;strong&gt;[PDF]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
