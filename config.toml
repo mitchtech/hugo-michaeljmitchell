@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://mitchtech.github.io/"
+baseurl = "https://mitchtech.github.io/hugo-michaeljmitchell"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
