@@ -18,4 +18,5 @@ script:
 
 after_success:
   - cp .travis.yml public
+  - echo "michaeljmitchell.com" > public/CNAME
   - bash deploy.sh
