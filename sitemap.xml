@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mitchtech.github.io/hugo-michaeljmitchell/about/</loc>
+    <loc>http://michaeljmitchell.com/about/</loc>
     <lastmod>2017-01-21T17:53:46-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mitchtech.github.io/hugo-michaeljmitchell/publications/</loc>
+    <loc>http://michaeljmitchell.com/publications/</loc>
     <lastmod>2017-01-21T17:53:46-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mitchtech.github.io/hugo-michaeljmitchell/</loc>
+    <loc>http://michaeljmitchell.com/</loc>
     <lastmod>2017-01-21T17:53:46-08:00</lastmod>
     <priority>0</priority>
   </url>
